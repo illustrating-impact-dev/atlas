@@ -7,7 +7,7 @@
  {
    "ID": 2,
    "name": "Service level data",
-   "url": "https://raw.githubusercontent.com/illustrating-impact-dev/atlas/main/services_json.json"
+   "url": "https://raw.githubusercontent.com/illustrating-impact-dev/atlas/main/services_singlerow.json"
  },
  {
    "ID": 3,
